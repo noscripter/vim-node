@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 group :development do
-  gem "guard-minitest"
+  gem "guard-minitest", ">= 1.0.1"
   gem "minitest-reporters"
 end
 
